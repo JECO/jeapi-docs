@@ -33,7 +33,7 @@ The following fields are returned for each row in the result set.
 * check_amount
 * check_num
 * check_type
-* fh_claim_num
+* claim_number
 * party
 * payable_comment
 * payee_name
