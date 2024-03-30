@@ -7,7 +7,7 @@ To quote the wiki on the `/status` endpoint:
 
 > To check status, send the below cURL request.
 > ```
-> curl -X GET https://je-api.com/v0/status.json
+> curl -X GET https://je-api.com/v1/status.json
 > ```
 > If the server is up, you'll receive the following message:
 > ```
