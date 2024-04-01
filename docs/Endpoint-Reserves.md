@@ -36,16 +36,21 @@ The following fields are returned for each row in the result set.
 * reserve_indemnity 
 * reserve_medical  
 * incurred_indemnity 
+    * May include additional fees types for non-workers-compensation claims in v0.
 * incurred_medical 
 * incurred_def_atty 
 * ptd_recoveries
 * ptd_loss 
 * ptd_def_atty 
-* ptd_expense 
+* ptd_expense
+    * May exclude certain fees in v0.
 * ptd_total 
 * reserve_loss 
 * reserve_def_atty 
 * reserve_expense 
+    * May exclude certain fees in v0.
 * reserve_total 
 * incurred_expense 
+    * May exclude certain fees in v0.
 * incurred_total
+* incurred_loss (API v1 or later)
