@@ -16,4 +16,5 @@
     </ul>
   <li><a href="https://github.com/JECO/jeapi-docs/wiki/Troubleshooting">Troubleshooting</a></li>
   <li><a href="https://github.com/JECO/jeapi-docs/wiki/Bugs-and-Features">Bugs and Features</a></li>
+  <li><a href="https://github.com/JECO/jeapi-docs/wiki/Changelog">Changelog</a></li>
 </ul>
